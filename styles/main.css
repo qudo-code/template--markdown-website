@@ -1,0 +1,10 @@
+.markdown-body {
+    max-width: 800px;
+    padding: 2rem 1rem;
+    margin: 0 auto;
+}
+
+html,
+body {
+    background: var(--color-canvas-default);
+}
