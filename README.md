@@ -1,5 +1,5 @@
 # Markdown Website
-Sometime just getting some information online doesn't need to be that hard. Doesn't even come with a build tool, don't need it.
+Sometimes just getting some information online doesn't need to be that hard. Doesn't even come with a build tool, don't need it.
 
 ### Cheatsheet
 Not familiar with markdown? It's pretty easy. Here's a [Markdown Cheetsheet](https://www.markdownguide.org/cheat-sheet/) to get you started. The markdown you write in `.md` files will be converted to HTML and become your website.
